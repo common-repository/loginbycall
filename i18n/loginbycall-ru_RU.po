@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-07-31 05:54+0400\n"
+"PO-Revision-Date: 2018-08-02 20:57+0300\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Russian <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+"X-Generator: Poedit 2.1.1\n"
+"Language: ru_RU\n"
+
+#: loginbycall.module:285
+msgid "LoginByCall User"
+msgstr "Пользователь LoginByCall"
+
+#: loginbycall:51
+msgid "Settings"
+msgstr "Настройки"
+
+#: loginbycall.module:*
+msgid "LoginByCall"
+msgstr "LoginByCall"
+
+#: loginbycall.php:305 loginbycall.php:370
+msgid "You are not allowed to access this page."
+msgstr "У вас нет доступа к этой странице."
+
+#: loginbycall.php:86
+msgid "My settings LoginByCall"
+msgstr "Мои настройки LoginByCall"
+
+#: loginbycall.php:46
+msgid "Enter your api key. To reissue the key, deactivate and reactivate the plugin."
+msgstr "Введите ваш api_key. Для перевыпуска ключа деактивируйте и снова активируйте плагин."
+
+msgid "One-factor authorization"
+msgstr "Однофакторная авторизация"
+
+msgid "Two-factor authorization"
+msgstr "Двухфакторная авторизация"
+
+msgid "LoginByCall settings"
+msgstr "Настройки простой авторизации «LoginByCall»"
+
+msgid "Enable LoginByCall"
+msgstr "Подключить простую авторизацию LoginByCall"
+
+msgid "Phone w/o \"+\" (1234567890)"
+msgstr "Телефон в международном формате без \"+\""
+
+msgid "LoginByCall mode"
+msgstr "Режим LoginByCall"
+
+msgid "Don't offer any more"
+msgstr "Больше не предлагать"
+
+msgid "Your cell number"
+msgstr "Ваш номер"
+
+msgid "LoginByCall is calling you. Enter 4 last digits of the incoming number."
+msgstr "Введите последние 4 цифры номера с которого мы вам звоним"
+
+msgid "Repeat after"
+msgstr "Повторить через"
+
+msgid "Specify at least one authorization method for each role"
+msgstr "Укажите хотя бы один способ авторизации для каждой роли"
+
+msgid "Missing API-key"
+msgstr "Ключи не активны"
+
+msgid "Activate"
+msgstr "Подтвердить ключ"
+
+msgid "Balance LoginByCall"
+msgstr "Баланс LoginByCall"
+
+msgid "View Rates"
+msgstr "Тарифы"
+
+msgid "Top up"
+msgstr "Пополнить баланс"
+
+msgid "Enter amount in LBC credits (1 USD = 10.000 credits)"
+msgstr "Укажите сумму пополнения в LBC кредитах (1 USD = 10.000 кредитов)"
+
+msgid "Proceed"
+msgstr "Пополнить баланс"
+
+msgid "Balance notifications"
+msgstr "Уведомления о снижении баланса"
+
+msgid "E-mail for notification"
+msgstr "E-mail для уведомлений"
+
+msgid "Notify if balance is less"
+msgstr "Уведомлять при балансе менее"
+
+msgid "LoginByCall required"
+msgstr "Обязательное использование LoginByCall для пользователей"
+
+msgid "Role settings"
+msgstr "Настройки по ролям"
+
+msgid "Allow One-factor authorization"
+msgstr "Разрешить однофакторную авторизацию"
+
+msgid "Allow Two-factor authorization"
+msgstr "Разрешить двухфакторную авторизацию"
+
+msgid "Reset \"No longer offer\" flag for all users"
+msgstr "Сбросить флаг \"Больше не предлагать\" для всех пользователей"
+
+msgid "Reset"
+msgstr "Сбросить"
+
+msgid "Attention!"
+msgstr "Обратите внимание!"
+
+msgid "When the domain administrator's email is changed, api_key is reissued. New api-key will come to the email."
+msgstr "При смене email администратора домена происходит перевыпуск api_key. Новый api-key придет на почту."
+
+msgid "Don't forget to update the api-key"
+msgstr "Не забудьте обновить ключи сервиса"
+
+msgid "Warning!"
+msgstr "Предупреждение"
+
+msgid "Confirm"
+msgstr "Подтверждение"
+
+msgid "Allow the simple login method LoginByСall for your account"
+msgstr "Подключите простой способ входа «LoginByСall» для вашего аккаунта"
+
+msgid "We will call you from a random number,"
+msgstr "Мы позвоним вам со случайного номера, запомните последние"
+
+msgid "remember the last 4 digits from it."
+msgstr "4 цифры из него."
+
+msgid "Select LoginByCall mode"
+msgstr "Выберите способ авторизации"
+
+msgid "seconds"
+msgstr "секунд"
+
+msgid "You can change the settings in your profile"
+msgstr "Вы можете изменить настройки в профиле"
+
+msgid "Call completed"
+msgstr "Звонок завершен"
+
+msgid "Ringing..."
+msgstr "Звонок совершается"
+
+msgid "Error"
+msgstr "ОШИБК"
+
+msgid ": This cell phone is already registered."
+msgstr ": Телефон уже занят."
+
+msgid ": Enter your cell number"
+msgstr ": Телефон должен быть заполнен"
+
+msgid "Password or leave field blank"
+msgstr "Password или оставьте пустым для входа по LoginByCall"
